@@ -1,0 +1,38 @@
+/* App.css */
+body {
+  margin: 0;
+  padding: 0;
+  font-family: "Comic Sans MS", cursive, sans-serif;
+  background-color: #ffefd5;
+  color: #333;
+}
+
+h1,
+h2 {
+  color: #ff69b4;
+  text-align: center;
+}
+
+p {
+  text-align: center;
+  font-size: 1.1rem;
+}
+
+.hero-section {
+  background-color: #ff69b4;
+  color: #fff;
+  padding: 50px 0;
+  text-align: center;
+}
+
+.about-section {
+  padding: 40px 20px;
+  background-color: #f0f8ff;
+}
+
+.footer {
+  background-color: #333;
+  color: white;
+  padding: 20px;
+  text-align: center;
+}
